@@ -9,7 +9,6 @@ int main(){
 
     cout<<"\nEnter total numbers of variables,constraints\n";
     cin>>var>>cons;
-    
  
     double C[var+cons];
     double A[cons][var+cons];
